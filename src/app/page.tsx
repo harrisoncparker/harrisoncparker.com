@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="flex items-center justify-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-chivo-mono)]">
+    <div className="flex items-center justify-center min-h-dvh p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-chivo-mono)]">
     
       <div>
         <h1 className="text-2xl md:text-6xl">Harrison C Parker</h1>
