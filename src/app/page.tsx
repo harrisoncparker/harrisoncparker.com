@@ -9,10 +9,10 @@ export default function Home() {
 
         <ul className="flex gap-8 mt-2 md:mt-8 text-[#dc5502] italic md:text-md">
           <li>
-            <a href="https://www.linkedin.com/in/harrisoncparker/">🔗 linkedin</a>
+            <a href="https://www.linkedin.com/in/harrisoncparker/" target="_blank" rel="noopener noreferrer">🔗 linkedin</a>
           </li>
           <li>
-            <a href="https://github.com/harrisoncparker">🔗 github</a>
+            <a href="https://github.com/harrisoncparker" target="_blank" rel="noopener noreferrer">🔗 github</a>
           </li>
         </ul>
       </div>
